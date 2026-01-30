@@ -1,2 +1,2 @@
 # Programas-Raptor-
-Diagrama de flujo, con la aplicación raptor, un programa que proporciona un entorno de programación basado en diagramas de flujo
+Diagrama de flujo, con la aplicación raptor, un programa que proporciona un entorno de programación basado en diagramas de flujo, RAPTOR es un entorno de programación basado en diagramas de flujo, diseñado específicamente para ayudar a los estudiantes a visualizar sus algoritmos y evitar la sobrecarga sintáctica. Los programas RAPTOR se crean y ejecutan visualmente mediante el seguimiento de la ejecución a través del diagrama de flujo.
